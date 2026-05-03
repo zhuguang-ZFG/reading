@@ -31,8 +31,10 @@
   - 总纲、索引、跨书导航
 - `02_NOTES`
   - 各书主笔记
+  - 内部分 `01_COGNITION / 02_TECH / 03_MANAGEMENT / 04_HISTORY`
 - `03_ACTIONS`
   - 行动清单与金句摘录
+  - 内部分 `01_COGNITION / 02_TECH / 03_MANAGEMENT / 04_HISTORY`
 - `04_CONCEPTS`
   - 概念卡片
 - `05_HISTORY`
@@ -90,6 +92,13 @@
 - `01_INDEX/管理线总纲.md`
 - `01_INDEX/历史线总纲.md`
 - `00_NAV/全库总导航.md`
+
+### 读书笔记所在目录
+
+- 认知类：`02_NOTES/01_COGNITION/`
+- 技术类：`02_NOTES/02_TECH/`
+- 管理类：`02_NOTES/03_MANAGEMENT/`
+- 历史类：`02_NOTES/04_HISTORY/`
 
 ## 使用方式
 
