@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "462109c35c58a3e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb1bca3b7a260ac2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b5858f5887ba9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6f850b674e25c203",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e50d560a8d881c42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "认知红利-读书笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "认知红利-读书笔记"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89804f060cd2f3a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eb637b5952c0810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a0dd18f5bbe02de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e0078c9a5df45778",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8cfb6d32cacbd45d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69085c2477351bab",
+    "type": "split",
+    "children": [
+      {
+        "id": "76bfa3d9404982f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41a278424c031db4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "531ddd6530b12148",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "12482c5e0df9dd3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0ed0d1ad563c3f21",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b3c02743ded0cb77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "1b5858f5887ba9c5",
+  "lastOpenFiles": [
+    "杠杆点.md",
+    "探索与优化.md",
+    "创造力.md",
+    "长期主义.md",
+    "跨书主题索引.md",
+    "利他.md",
+    "敬天爱人.md",
+    "因果回路图.md",
+    "冰山模型.md",
+    "遗传算法.md",
+    "适合度景观.md",
+    "活法-行动清单与金句摘录.md",
+    "活法-读书笔记.md",
+    "如何系统思考-行动清单与金句摘录.md",
+    "如何系统思考-读书笔记.md",
+    "如何解决复杂问题-行动清单与金句摘录.md",
+    "如何解决复杂问题-读书笔记.md",
+    "认知红利-读书笔记.md",
+    "财富自由.md",
+    "欢迎.md",
+    "注意力.md",
+    "认知类阅读索引.md",
+    "元认知.md",
+    "系统性思维.md",
+    "认知红利-行动清单与金句摘录.md",
+    "结构化思维.md",
+    "未命名.canvas"
+  ]
+}
